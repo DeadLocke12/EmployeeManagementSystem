@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920399252982",
+    "project_id": "employee-management-syst-265eb",
+    "storage_bucket": "employee-management-syst-265eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920399252982:android:67ec531e7ec5e8e30e4bd7",
+        "android_client_info": {
+          "package_name": "com.example.employeemanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920399252982-b5dpg4erk6ubtper2be0t80eaj7lor1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbUGPc_CvtKAESS4y0mNWzXFIaQ49X8KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920399252982-b5dpg4erk6ubtper2be0t80eaj7lor1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

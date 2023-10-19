@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingStart="8dp"
+    android:paddingEnd="8dp">
+
+    <TextView
+        android:id="@+id/tv_hourly_report_id"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:text="@tools:sample/cities" />
+
+    <TextView
+        android:id="@+id/tv_hourly_report_year"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:text="@tools:sample/date/hhmm" />
+
+    <TextView
+        android:id="@+id/tv_hourly_report_month"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:text="@tools:sample/date/hhmm" />
+
+
+    <TextView
+        android:id="@+id/tv_hourly_report_hours"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:text="@tools:sample/date/hhmm" />
+
+    <TextView
+        android:id="@+id/tv_hourly_report_payment_total"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        tools:text="@tools:sample/full_names" />
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/iv_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:src="@drawable/ic_baseline_check_24" />
+
+
+    <androidx.constraintlayout.utils.widget.ImageFilterView
+        android:id="@+id/iv_cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:src="@drawable/ic_baseline_cancel_24" />
+
+
+</LinearLayout>

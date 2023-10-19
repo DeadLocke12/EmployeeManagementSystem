@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_admin_auth.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_admin_page.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_auth.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_page.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/EmployeeManagementSystem/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/user/Downloads/android/androidprojects/EmployeeManagementSystem/app/src/main/res/layout/activity_admin_auth.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/android/androidprojects/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.1695" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_admin_dashoard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_admin_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_dasboard_admin_side.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_auth.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_employee_details_admin_side.xml" value="0.25" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_employee_details_employee_side.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_leave_management_admin_side.xml" value="0.253125" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_leave_management_employee_side.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_payroll_history_admin_side.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_payroll_history_page_admin_side.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_payroll_pending_admin_side.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/activity_payroll_pending_employee_side.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/leave_employee_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/payroll_history_employee_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app - Copy/EmployeeManagementSystem/app/src/main/res/layout/payroll_pending_employee_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app/EmployeeManagementSystem/app/src/main/res/layout/activity_admin_page.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_auth.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app/EmployeeManagementSystem/app/src/main/res/layout/activity_emp_page.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/Downloads/backup of the original app/EmployeeManagementSystem/app/src/main/res/layout/activity_main.xml" value="0.18981481481481483" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
